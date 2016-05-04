@@ -1,4 +1,4 @@
-Welcome to Disrupt Harlem Coding Squad!!
+# Welcome to Disrupt Harlem Coding Squad!!
 
 We will be using this repository to pull, push, and share code/materials relevant to this program.
 
